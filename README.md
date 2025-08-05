@@ -1,6 +1,10 @@
 # Bin2Dec - Konversi Bilangan Biner ke Desimal (Laravel Project)
 
-https://github.com/zohir-source/Bin2Dec/issues/1#issue-3292499524
+<img width="1920" height="734" alt="Image" src="https://github.com/user-attachments/assets/ec69aac0-74ea-4113-82a6-7130e66768d2" />
+
+<img width="1920" height="734" alt="Image" src="https://github.com/user-attachments/assets/218514ce-298b-4d5c-9784-d54e0ff7f055" />
+
+<img width="1920" height="660" alt="Image" src="https://github.com/user-attachments/assets/323f107e-9684-4d17-a439-bc85fdbd36cc" />
 
 Proyek ini adalah aplikasi web sederhana berbasis **Laravel** yang berfungsi untuk mengonversi bilangan biner menjadi bilangan desimal. Aplikasi ini dirancang sebagai latihan untuk memahami penggunaan Laravel, form request validation, dan dasar-dasar input-output web berbasis framework PHP modern.
 
@@ -12,11 +16,6 @@ Proyek ini adalah aplikasi web sederhana berbasis **Laravel** yang berfungsi unt
 - HTML, CSS (Bootstrap opsional)
 - Git & GitHub (untuk version control dan kolaborasi)
 
-## 📂 Struktur Proyek
-
-Berikut adalah beberapa bagian penting dari struktur proyek:
-
-project-root/ ├── app/ │   └── Http/ │       ├── Controllers/ │       │   └── BinaryController.php │       └── Requests/ ├── routes/ │   └── web.php ├── resources/ │   └── views/ │       ├── bin2dec.blade.php │       └── home.blade.php ├── public/ ├── composer.json └── .env
 
 ## ⚙️ Instalasi
 
