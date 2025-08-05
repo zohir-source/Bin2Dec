@@ -1,5 +1,7 @@
 # Bin2Dec - Konversi Bilangan Biner ke Desimal (Laravel Project)
 
+https://github.com/zohir-source/Bin2Dec/issues/1#issue-3292499524
+
 Proyek ini adalah aplikasi web sederhana berbasis **Laravel** yang berfungsi untuk mengonversi bilangan biner menjadi bilangan desimal. Aplikasi ini dirancang sebagai latihan untuk memahami penggunaan Laravel, form request validation, dan dasar-dasar input-output web berbasis framework PHP modern.
 
 ## 🔧 Teknologi yang Digunakan
