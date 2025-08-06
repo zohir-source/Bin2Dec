@@ -1,3 +1,4 @@
+# Level Beginner
 # Bin2Dec - Konversi Bilangan Biner ke Desimal (Laravel Project)
 
 <img width="1920" height="734" alt="Image" src="https://github.com/user-attachments/assets/ec69aac0-74ea-4113-82a6-7130e66768d2" />
